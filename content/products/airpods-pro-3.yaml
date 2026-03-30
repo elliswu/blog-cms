@@ -1,0 +1,54 @@
+slug: airpods-pro-3
+name: "Apple AirPods Pro 3"
+brand: "Apple"
+category: "earphones"
+description: "Apple 第三代真無線降噪耳機，搭載 H3 晶片，提供更強大的自適應降噪與空間音訊體驗。"
+coverImage: "/images/products/airpods-pro-3.jpg"
+rating: 4.6
+affiliateLinks:
+  - platform: "momo"
+    url: "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=example2"
+    price: 7490
+    currency: "TWD"
+  - platform: "shopee"
+    url: "https://shopee.tw/example-airpods-pro-3"
+    price: 7290
+    currency: "TWD"
+  - platform: "amazon"
+    url: "https://www.amazon.com/dp/example2"
+    price: 249
+    currency: "USD"
+specs:
+  - label: "類型"
+    value: "真無線入耳式降噪耳機"
+  - label: "晶片"
+    value: "Apple H3"
+  - label: "降噪"
+    value: "自適應降噪 2.0"
+  - label: "藍牙版本"
+    value: "5.4"
+  - label: "編碼"
+    value: "AAC, Apple Lossless"
+  - label: "續航"
+    value: "8 小時 (本體) / 36 小時 (含充電盒)"
+  - label: "重量"
+    value: "5.4g (單耳)"
+  - label: "防水"
+    value: "IP54"
+  - label: "充電"
+    value: "USB-C, MagSafe, Qi2"
+pros:
+  - "與 Apple 裝置無縫整合"
+  - "自適應降噪 2.0 效果出色"
+  - "空間音訊體驗業界領先"
+  - "IP54 防水防塵"
+  - "支援 MagSafe 與 Qi2 無線充電"
+  - "Find My 精確尋找"
+cons:
+  - "僅限 Apple 生態系最佳體驗"
+  - "價格較高 (NT$7,490)"
+  - "不支援 LDAC"
+tags: ["真無線耳機", "降噪耳機", "Apple", "AirPods", "入耳式耳機"]
+publishedAt: "2026-03-05"
+updatedAt: "2026-03-25"
+featured: true

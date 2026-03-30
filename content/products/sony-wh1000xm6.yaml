@@ -1,0 +1,54 @@
+slug: sony-wh1000xm6
+name: "Sony WH-1000XM6"
+brand: "Sony"
+category: "earphones"
+description: "Sony 旗艦降噪耳機，搭載全新 V2 整合處理器，提供業界頂級的降噪效果與卓越音質。"
+coverImage: "/images/products/sony-wh1000xm6.jpg"
+rating: 4.8
+affiliateLinks:
+  - platform: "momo"
+    url: "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=example1"
+    price: 10900
+    currency: "TWD"
+  - platform: "shopee"
+    url: "https://shopee.tw/example-sony-wh1000xm6"
+    price: 10500
+    currency: "TWD"
+  - platform: "amazon"
+    url: "https://www.amazon.com/dp/example1"
+    price: 348
+    currency: "USD"
+specs:
+  - label: "類型"
+    value: "頭戴式降噪耳機"
+  - label: "驅動單元"
+    value: "40mm"
+  - label: "降噪"
+    value: "主動降噪 (ANC) V2"
+  - label: "藍牙版本"
+    value: "5.4"
+  - label: "編碼"
+    value: "LDAC, AAC, SBC"
+  - label: "續航"
+    value: "30 小時 (ANC 開)"
+  - label: "重量"
+    value: "250g"
+  - label: "防水"
+    value: "無"
+  - label: "充電"
+    value: "USB-C, 快充 3 分鐘 = 3 小時"
+pros:
+  - "業界頂級降噪效果"
+  - "支援 LDAC 高解析音訊"
+  - "30 小時超長續航"
+  - "配戴舒適度極佳"
+  - "多點連接支援"
+  - "Speak-to-Chat 自動暫停"
+cons:
+  - "價格偏高 (NT$10,900)"
+  - "不支援無線充電"
+  - "不防水"
+tags: ["降噪耳機", "頭戴式耳機", "Sony", "LDAC", "旗艦耳機"]
+publishedAt: "2026-03-01"
+updatedAt: "2026-03-28"
+featured: true
